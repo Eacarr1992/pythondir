@@ -24,3 +24,5 @@ print("We have", passengers, "to carpool today.")
 print("We need to put about", average_passengers_per_car, "in each car.")
 
 #For error name car_pool_capacity not defined, the variable car_pool_capacity is not defined prior to being called. should be carpool_capacity
+
+#float type not necessary for space_in_a_car. carpool_capacity is 120.0 if space_in_a_car left as float, 120 if changed to integer
