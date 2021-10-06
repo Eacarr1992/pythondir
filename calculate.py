@@ -1,0 +1,6 @@
+print("I will now calculate how much is will cost to go to drive shack:")
+print("Total number of people: 12")
+print("Bays- $500 $", 500)
+print("Entry fees- $65 $", 12 * 65)
+print("Alcohol- $22 $", 12 * 22)
+print("Grand total: $", 500 + (12 * 65) + (12 * 22))
